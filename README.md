@@ -24,4 +24,4 @@ This project is licensed under the **MIT License**, meaning you are free to use,
 ---
 
 ## Author  
-Developed by **[Bilal-MaGdy2]**.
+Developed by **Bilal-MaGdy2**.
